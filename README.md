@@ -90,11 +90,12 @@
       </a>
       <br>REST API
     </td>
-    <td align="center" width="96"> 
+    <td align="center" width="96">
     <a href="#Suvadip-LoGo">
-        <img src="https://th.bing.com/th/id/OIP.1H34DSPHr4jwX6KW8sHWbQHaEb?pid=ImgDet&rs=1" />
+        <img src="https://th.bing.com/th/id/R.fe14bec0eac7c73eaf8fa738867e6ff2?rik=%2fWASHqa82355%2bA&riu=http%3a%2f%2fumbrella-soft.com%2fupload%2f500322f3f64863e2112cf19f766ef797.png&ehk=h78ZpRfo1bdsh0%2fZ%2bWniOazCUPqBFGcey9aOJgnjNvQ%3d&risl=&pid=ImgRaw&r=0" />
       </a>
       <br>Inellij IDEA
+    </td>
     </td>
     <td align="center"  width="96">
       <a href="#Suvadip-LoGo">
