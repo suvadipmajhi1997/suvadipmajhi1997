@@ -8,7 +8,7 @@
 
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/200w.webp">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=re-nshlogo&label=Profile%20views&color=0e75b6&style=flat" alt="re-nshlogo" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=suvadipmajhi1997&label=Profile%20views&color=0e75b6&style=flat" alt="re-nshlogo" /> </p>
 
 - 🔭 I'm currently working on [Java DSA & Spring Boot Framework](https://github.com/suvadipmajhi1997/EcommerceAPI)
 
