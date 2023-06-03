@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **Suvadipmajhi.official.1997@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1sjp093FEpKPRZHKJ64XxRt8HWbCQ2VjA/view?usp=share_link)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1kJySLWNcKZXidw1nxmwOrTW7ZPzBE78s9K6kC7xWnVc/edit)
 
 ### Connect with me:
 
