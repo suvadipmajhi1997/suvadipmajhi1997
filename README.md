@@ -103,6 +103,12 @@
       </a>
       <br>VS Code
     </td>
+   <td align="center" width="96">
+     <a href="#Suvadip-LoGo">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF14FJWbz1h7PwWnFSa4kZDow1PtkpvUbrnQ&usqp=CAU" />
+      </a>
+      <br>Tailwind css
+    </td>
   </tr>
 </table>
 
