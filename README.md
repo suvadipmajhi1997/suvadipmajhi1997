@@ -12,7 +12,7 @@
 
 - 🔭 I'm currently working on [Java DSA & Spring Boot Framework](https://github.com/suvadipmajhi1997/InstagramBackEndDesign)
 
-- 🌱 I’m currently learning **Backend Development.**
+- 🌱 I’m currently learning **Frontend Development.**
 
 - 💬 Ask me about **Java, Spring Boot**
 
