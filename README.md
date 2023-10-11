@@ -22,7 +22,7 @@
 
 - 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1kJySLWNcKZXidw1nxmwOrTW7ZPzBE78s9K6kC7xWnVc/edit)
 
-### Connect with me:
+### Connect With Me:
 
 <p align="left">
 <a href="https://www.linkedin.com/in/suvadip-majhi-b3ab50216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Suvadip-majhi" height="30" width="40" /></a>
