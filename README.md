@@ -36,7 +36,7 @@
   <tr>
     <td align="center" width="96">
       <a href="#Suvadip-LoGo">
-        <img src="[https://th.bing.com/th/id/OIP.PZl9YNsOvSdYzlZ537h2_gHaEo?pid=ImgDet&rs=1](https://www.google.com/imgres?q=react%20js&imgurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1400%2F0*y6IcBe5J1AdALzXw.png&imgrefurl=https%3A%2F%2Fmedium.com%2F%40ojebiyifulness%2F5-main-features-of-react-js-that-developers-must-know-759e222d3699&docid=hoybikUgrFT1cM&tbnid=SbzNfqTDPNkd2M&vet=12ahUKEwi_tOrKo4aNAxUwh68BHSiZKMYQM3oECG4QAA..i&w=1400&h=788&hcb=2&ved=2ahUKEwi_tOrKo4aNAxUwh68BHSiZKMYQM3oECG4QAA)" />
+        <img src="https://medium.com/@ojebiyifulness/5-main-features-of-react-js-that-developers-must-know-759e222d3699" />
       </a>
       <br>React
     </td>
