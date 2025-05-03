@@ -4,7 +4,7 @@
 <h3 align="center"> <img alt="gif" height="30" src="https://media.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif"> Hi 👋, I'm Suvadip Majhi
 <img alt="gif" height="30" src="https://media.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif">
 </h3>
-<p font-size="30px" align="center">A Backend Developer with a Bachelor's degree in Information Technology and expertise in Java, Spring Boot, Rest APIs, MySql, and Object-Oriented Programming. I'm passionate about building scalable and robust web applications that can handle large amounts of data and traffic. In my free time, I enjoy exploring new technologies and contributing to open source projects.</p>
+<p font-size="30px" align="center">A Mern Stack Developer with a Bachelor's degree in Information Technology and expertise in React, Bootstrap, Tailwind, Node Js, Express Js, Rest APIs and MySql. I'm passionate about building scalable and robust web applications that can handle large amounts of data and traffic. In my free time, I enjoy exploring new technologies and contributing to open source projects.</p>
 
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/200w.webp">
 
@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Frontend Development.**
 
-- 💬 Ask me about **Java, Spring Boot**
+- 💬 Ask me about **React Js, Express Js**
 
 - ⚡ Fun fact: I love Coding😊
 
@@ -36,9 +36,9 @@
   <tr>
     <td align="center" width="96">
       <a href="#Suvadip-LoGo">
-        <img src="https://th.bing.com/th/id/OIP.PZl9YNsOvSdYzlZ537h2_gHaEo?pid=ImgDet&rs=1" />
+        <img src="[https://th.bing.com/th/id/OIP.PZl9YNsOvSdYzlZ537h2_gHaEo?pid=ImgDet&rs=1](https://www.google.com/imgres?q=react%20js&imgurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1400%2F0*y6IcBe5J1AdALzXw.png&imgrefurl=https%3A%2F%2Fmedium.com%2F%40ojebiyifulness%2F5-main-features-of-react-js-that-developers-must-know-759e222d3699&docid=hoybikUgrFT1cM&tbnid=SbzNfqTDPNkd2M&vet=12ahUKEwi_tOrKo4aNAxUwh68BHSiZKMYQM3oECG4QAA..i&w=1400&h=788&hcb=2&ved=2ahUKEwi_tOrKo4aNAxUwh68BHSiZKMYQM3oECG4QAA)" />
       </a>
-      <br>Java(Core)
+      <br>React
     </td>
     <td align="center" width="96">
       <a href="#Suvadip-LoGo">
