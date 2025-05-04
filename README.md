@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suvadipmajhi1997&label=Profile%20views&color=0e75b6&style=flat" alt="suvadipmajhi1997" /> </p>
 
-- 🔭 I'm currently working on [Java DSA & Spring Boot Framework](https://github.com/suvadipmajhi1997/InstagramBackEndDesign)
+- 🔭 I'm currently working on [Front-end development]
 
 - 🌱 I’m currently learning **Frontend Development.**
 
